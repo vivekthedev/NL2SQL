@@ -12,6 +12,10 @@ A Streamlit-based web application that allows users to upload SQLite database fi
 - **Results Display**: View query results in a scrollable table with support for wide tables
 - **Export Functionality**: Download query results as CSV files
 
+# Architecture Diagram
+
+![NL2SQL Architecture Diagram](https://i.imgur.com/eXRcVBc.png)
+
 ## Installation
 
 ### Prerequisites
